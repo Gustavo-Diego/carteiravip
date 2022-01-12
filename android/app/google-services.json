@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210450447896",
+    "firebase_url": "https://carteiravip.firebaseio.com",
+    "project_id": "carteiravip",
+    "storage_bucket": "carteiravip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210450447896:android:40dbbfabb4ed50d1c5cd6d",
+        "android_client_info": {
+          "package_name": "com.example.carteiravip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210450447896-03369ld9i119a2j0siq0dc66v1bkr4mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4Hgxl0Ps6JzOnDLYz-8ZDTLaVMd27Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210450447896-03369ld9i119a2j0siq0dc66v1bkr4mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
